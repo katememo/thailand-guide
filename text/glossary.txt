@@ -2,9 +2,21 @@ Ayutthaya
   EN: Former Thai capital before Bangkok.
   FR: Ancienne capitale du royaume, avant Bangkok.
 
+Bai si
+  EN: Ceremonial offering arrangement.
+  FR: Composition rituelle d’offrandes.
+
 Ban Chiang
   EN: Village and archaeological site in Udon Thani province; ban means village.
   FR: Village et site archéologique de la province d’Udon Thani ; ban signifie village.
+
+Ban Dung
+  EN: District of Udon Thani province where Kham Chanot lies.
+  FR: District de la province d’Udon Thani où se trouve Kham Chanot.
+
+Ban Muang
+  EN: Subdistrict where Kham Chanot lies.
+  FR: Sous-district où se trouve Kham Chanot.
 
 Bhumibol Adulyadej
   EN: King Rama the Ninth, who visited the Ban Chiang excavation in 1972.
@@ -21,6 +33,10 @@ Chakri
 Chakri Maha Prasat
   EN: Throne hall built by King Rama the Fifth: a European body with Thai spires.
   FR: Salle du trône bâtie par le roi Rama V : un corps européen coiffé de flèches thaïes.
+
+Chanot
+  EN: Chanot or taraw palm, the tree that fills the forest.
+  FR: Palmier chanot ou taraw, l’arbre qui remplit la forêt.
 
 Chao Phraya
   EN: The main river of Bangkok.
@@ -41,6 +57,14 @@ Galyani Vadhana
 Garuda
   EN: Mythical bird-man, mount of the god Vishnu and emblem of royalty.
   FR: Homme-oiseau mythique, monture du dieu Vishnou et emblème royal.
+
+Isan
+  EN: The northeastern region of Thailand and its people.
+  FR: La région du nord-est de la Thaïlande et ses habitants.
+
+Kham Chanot
+  EN: Sacred forest island in Udon Thani province; chanot is the palm that fills it.
+  FR: Île-forêt sacrée de la province d’Udon Thani ; le chanot est le palmier qui la couvre.
 
 Khon
   EN: Thai masked dance drama that performs the Ramakien.
@@ -65,6 +89,10 @@ Mount Sumeru
 Nuad Thai
   EN: Traditional Thai massage, UNESCO intangible cultural heritage since 2019.
   FR: Massage traditionnel thaï, patrimoine culturel immatériel de l’UNESCO depuis 2019.
+
+Phaya Nak
+  EN: Naga: great serpent of legend, believed to live in an underwater realm.
+  FR: Naga : grand serpent de légende, censé vivre dans un royaume sous les eaux.
 
 Phra Borom Maha Ratchawang
   EN: Thai name of the Grand Palace.
@@ -110,6 +138,10 @@ Prasat Phra Thep Bidon
   EN: The Royal Pantheon, with statues of the Chakri kings.
   FR: Le Panthéon royal, avec les statues des rois Chakri.
 
+Pu Si Suttho
+  EN: Grandfather Si Suttho, the naga king of the legend.
+  FR: Grand-père Si Suttho, le roi naga de la légende.
+
 Rama I
   EN: First Chakri king, founder of Bangkok and the Grand Palace.
   FR: Premier roi Chakri, fondateur de Bangkok et du Grand Palais.
@@ -151,8 +183,12 @@ Thotsakan
   FR: Roi démon de Lanka aux dix visages, le méchant du Ramakien.
 
 Udon Thani
-  EN: Province in northeast Thailand where Ban Chiang lies.
-  FR: Province du nord-est de la Thaïlande où se trouve Ban Chiang.
+  EN: Province in northeast Thailand, home to Ban Chiang and Kham Chanot.
+  FR: Province du nord-est de la Thaïlande, où se trouvent Ban Chiang et Kham Chanot.
+
+Wang Nakhin
+  EN: Another name for Kham Chanot: the palace of the naga lord.
+  FR: Autre nom de Kham Chanot : le palais du seigneur naga.
 
 Wat
   EN: Buddhist temple or monastery.
@@ -173,6 +209,14 @@ Wat Phra Kaew
 Wat Phra Sri Rattanasasadaram
   EN: Formal name of the Temple of the Emerald Buddha.
   FR: Nom officiel du temple du Bouddha d’Émeraude.
+
+Wat Siri Suttho
+  EN: The temple beside the Kham Chanot forest.
+  FR: Le temple voisin de la forêt de Kham Chanot.
+
+Ya Si Pathumma
+  EN: Grandmother Si Pathumma, the naga queen of the legend.
+  FR: Grand-mère Si Pathumma, la reine naga de la légende.
 
 Yak
   EN: Giant or demon; the temple's giant door guardians.
