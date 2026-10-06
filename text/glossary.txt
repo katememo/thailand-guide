@@ -6,6 +6,10 @@ Bai si
   EN: Ceremonial offering arrangement.
   FR: Composition rituelle d’offrandes.
 
+Ban Chai
+  EN: Subdistrict of Ban Dung with salt fields.
+  FR: Sous-district de Ban Dung qui compte des salines.
+
 Ban Chiang
   EN: Village and archaeological site in Udon Thani province; ban means village.
   FR: Village et site archéologique de la province d’Udon Thani ; ban signifie village.
@@ -14,13 +18,29 @@ Ban Dung
   EN: District of Udon Thani province where Kham Chanot lies.
   FR: District de la province d’Udon Thani où se trouve Kham Chanot.
 
+Ban Dung Nuea
+  EN: North Ban Dung, village nine, home of the iodised salt makers' group.
+  FR: Ban Dung Nord, village neuf, siège du groupe de producteurs de sel iodé.
+
 Ban Muang
   EN: Subdistrict where Kham Chanot lies.
   FR: Sous-district où se trouve Kham Chanot.
 
+Ban Tha Bo Yang
+  EN: Village named partly after old salt-making ponds.
+  FR: Village qui doit en partie son nom à d’anciennes mares à sel.
+
+Ban Thung
+  EN: Salt-making village in Ban Chai subdistrict.
+  FR: Village saunier du sous-district de Ban Chai.
+
 Bhumibol Adulyadej
   EN: King Rama the Ninth, who visited the Ban Chiang excavation in 1972.
   FR: Le roi Rama IX, qui visita les fouilles de Ban Chiang en 1972.
+
+Bo Kluea Ban Dung
+  EN: The salt pits of Ban Dung, the common name for the district's salt-making area.
+  FR: Les puits de sel de Ban Dung, nom courant de la zone saline du district.
 
 Busabok
   EN: Spired pavilion-shaped throne; the Emerald Buddha's altar represents the aerial chariot of heavenly beings.
@@ -46,6 +66,10 @@ Chedi
   EN: Stupa: a monument enshrining relics.
   FR: Stupa : monument qui renferme des reliques.
 
+Dong Na Kluea
+  EN: A land thick with salt fields, from the Ban Dung council's motto.
+  FR: Une terre couverte de salines, d’après la devise du conseil de Ban Dung.
+
 Dusit Maha Prasat
   EN: Throne hall built by King Rama the First, used for royal lying-in-state and ceremonies.
   FR: Salle du trône bâtie par le roi Rama Ier, utilisée pour l’exposition des dépouilles royales et les cérémonies.
@@ -70,6 +94,10 @@ Khon
   EN: Thai masked dance drama that performs the Ramakien.
   FR: Théâtre dansé masqué thaï qui met en scène le Ramakien.
 
+Kluea sinthao
+  EN: Inland salt, made from underground brine rather than seawater.
+  FR: Sel des terres, tiré d’une saumure souterraine et non de l’eau de mer.
+
 Krom Silpakorn
   EN: The Fine Arts Department, in charge of archaeology and national museums.
   FR: Le Département des Beaux-Arts, chargé de l’archéologie et des musées nationaux.
@@ -77,6 +105,10 @@ Krom Silpakorn
 Lan than
   EN: Chinese stone warrior figures in opera costume, used as gate guardians at Wat Pho.
   FR: Statues chinoises de guerriers en costume d’opéra, gardiens des portes du Wat Pho.
+
+Maha Sarakham Formation
+  EN: The rock layer of salt, potash and gypsum beneath northeast Thailand.
+  FR: Formation de Maha Sarakham : couche rocheuse de sel, de potasse et de gypse sous le nord-est de la Thaïlande.
 
 Mongkut
   EN: King Rama the Fourth.
@@ -141,6 +173,10 @@ Prasat Phra Thep Bidon
 Pu Si Suttho
   EN: Grandfather Si Suttho, the naga king of the legend.
   FR: Grand-père Si Suttho, le roi naga de la légende.
+
+Rai
+  EN: Thai unit of land area: one rai is 1,600 square metres.
+  FR: Unité de surface thaïe : un rai vaut 1 600 mètres carrés.
 
 Rama I
   EN: First Chakri king, founder of Bangkok and the Grand Palace.
