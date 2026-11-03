@@ -1,4 +1,4 @@
-const CACHE = "guide-afd6da226e";
+const CACHE = "guide-b017b21a58";
 const PRECACHE = ["days/2026-11-17/"];
 const SKIP = /\.(mp3|zip)$/i;
 
