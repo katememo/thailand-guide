@@ -103,6 +103,12 @@ details[open]>summary .i-chev{transform:rotate(90deg)}
 .offline p{margin:0 0 14px;font-size:15px;color:var(--muted);line-height:1.5}
 .button{display:inline-flex;align-items:center;gap:8px;padding:11px 18px;border-radius:999px;background:var(--text);color:var(--bg);font-weight:700;font-size:15px;text-decoration:none}
 
+.day-cards{list-style:none;margin:4px 0 8px;padding:0;display:grid;gap:10px}
+.day-card{display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:20px;background:var(--surface);box-shadow:var(--shadow);color:inherit;text-decoration:none;border:2px solid var(--accent-soft)}
+.day-card-text{flex:1;min-width:0;display:flex;flex-direction:column;line-height:1.3}
+.day-card-text strong{font-size:18px}
+.day-card-meta{font-size:14px;color:var(--muted);margin-top:2px;font-variant-numeric:tabular-nums}
+.day-card .i-chev{color:var(--muted)}
 .locations{list-style:none;display:flex;gap:14px;margin:0 -16px 24px;padding:4px 16px 14px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding:0 16px;scrollbar-width:none;-webkit-overflow-scrolling:touch}
 .locations::-webkit-scrollbar{display:none}
 .locations li{flex:0 0 82%;display:flex;scroll-snap-align:start}
@@ -202,8 +208,6 @@ footer h2{font-size:17px;color:var(--text);margin:28px 0 8px}
 .tips h2{font-size:18px;margin:0 0 8px}
 .tips ul{margin:0;padding-left:20px}
 .tips li{margin:0 0 6px;line-height:1.5}
-.day-index ol{margin-bottom:24px}
-.day-index a{padding:14px 16px}
 </style>
 <script>
 (function(){var l="en";try{l=localStorage.getItem("guide-lang")||l}catch(e){}
