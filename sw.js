@@ -1,5 +1,5 @@
-const CACHE = "guide-7e3ae1d858";
-const PRECACHE = ["days/2026-11-17/", "days/2026-11-18/", "days/2026-11-19/", "days/2026-11-20/"];
+const CACHE = "guide-5f541449be";
+const PRECACHE = ["days/2026-11-17/", "days/2026-11-18/", "days/2026-11-19/", "days/2026-11-20/", "days/2026-11-21/"];
 const SKIP = /\.(mp3|zip)$/i;
 
 self.addEventListener("install", (event) => {
