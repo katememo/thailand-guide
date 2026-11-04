@@ -162,6 +162,14 @@ Mudmee
   EN: Ikat silk: threads tied and dyed before weaving.
   FR: Soie ikat : fils noués et teints avant le tissage.
 
+Muea hom
+  EN: Isan gathering the evening before a wedding, with monks chanting.
+  FR: Réunion de l’Isan la veille d’un mariage, avec chants des moines.
+
+Muea tao
+  EN: Meal offered to relatives and neighbours who help prepare a wedding.
+  FR: Repas offert à la famille et aux voisins qui aident à préparer un mariage.
+
 Nuad Thai
   EN: Traditional Thai massage, UNESCO intangible cultural heritage since 2019.
   FR: Massage traditionnel thaï, patrimoine culturel immatériel de l’UNESCO depuis 2019.
