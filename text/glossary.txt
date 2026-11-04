@@ -86,21 +86,53 @@ Isan
   EN: The northeastern region of Thailand and its people.
   FR: La région du nord-est de la Thaïlande et ses habitants.
 
+Khaen
+  EN: The Isan bamboo mouth organ.
+  FR: Orgue à bouche en bambou de l’Isan.
+
 Kham Chanot
   EN: Sacred forest island in Udon Thani province; chanot is the palm that fills it.
   FR: Île-forêt sacrée de la province d’Udon Thani ; le chanot est le palmier qui la couvre.
+
+Khan mak
+  EN: Bowl of betel and areca carried with gifts in the groom's procession.
+  FR: Bol de bétel et d’arec porté avec les cadeaux dans le cortège du marié.
+
+Kho khama
+  EN: Asking elders for forgiveness for any wrong.
+  FR: Demander pardon aux aînés pour toute faute.
 
 Khon
   EN: Thai masked dance drama that performs the Ramakien.
   FR: Théâtre dansé masqué thaï qui met en scène le Ramakien.
 
+Khwan
+  EN: The life spirit believed to dwell with each person.
+  FR: Esprit vital qui habiterait chaque personne.
+
+Kin dong
+  EN: The Isan name for a wedding, and the wedding feast.
+  FR: Nom du mariage en Isan, et du repas de noces.
+
 Kluea sinthao
   EN: Inland salt, made from underground brine rather than seawater.
   FR: Sel des terres, tiré d’une saumure souterraine et non de l’eau de mer.
 
+Krap
+  EN: A deep bow from sitting, palms joined at the forehead, head to the floor.
+  FR: Profonde prosternation assise, paumes au front, tête au sol.
+
 Krom Silpakorn
   EN: The Fine Arts Department, in charge of archaeology and national museums.
   FR: Le Département des Beaux-Arts, chargé de l’archéologie et des musées nationaux.
+
+Kruat nam
+  EN: Pouring water to share merit.
+  FR: Verser de l’eau pour partager les mérites.
+
+Laap
+  EN: Finely chopped meat or fish with lime and chilli.
+  FR: Viande ou poisson finement haché, au citron vert et au piment.
 
 Lan than
   EN: Chinese stone warrior figures in opera costume, used as gate guardians at Wat Pho.
@@ -110,17 +142,37 @@ Maha Sarakham Formation
   EN: The rock layer of salt, potash and gypsum beneath northeast Thailand.
   FR: Formation de Maha Sarakham : couche rocheuse de sel, de potasse et de gypse sous le nord-est de la Thaïlande.
 
+Mo khwan
+  EN: The ritual master who calls the khwan.
+  FR: Maître de cérémonie qui appelle le khwan.
+
 Mongkut
   EN: King Rama the Fourth.
   FR: Le roi Rama IV.
+
+Mor lam
+  EN: The singers of the northeast and their songs.
+  FR: Les chanteurs du Nord-Est et leurs chants.
 
 Mount Sumeru
   EN: Mountain at the centre of the Buddhist universe.
   FR: Mont Sumeru : montagne au centre de l’univers bouddhique.
 
+Mudmee
+  EN: Ikat silk: threads tied and dyed before weaving.
+  FR: Soie ikat : fils noués et teints avant le tissage.
+
 Nuad Thai
   EN: Traditional Thai massage, UNESCO intangible cultural heritage since 2019.
   FR: Massage traditionnel thaï, patrimoine culturel immatériel de l’UNESCO depuis 2019.
+
+Pha khao ma
+  EN: A checked cotton cloth, often tied around the waist.
+  FR: Tissu de coton à carreaux, souvent noué à la taille.
+
+Pha wai
+  EN: Cloth offered to elders as a sign of respect.
+  FR: Tissu offert aux aînés en signe de respect.
 
 Phaya Nak
   EN: Naga: great serpent of legend, believed to live in an underwater realm.
@@ -194,9 +246,25 @@ Ramakien
   EN: The Thai version of the Ramayana epic, as composed by King Rama the First.
   FR: Version thaïe de l’épopée du Ramayana, composée par le roi Rama Ier.
 
+Roek
+  EN: An auspicious moment chosen for a ceremony.
+  FR: Moment propice choisi pour une cérémonie.
+
+Sai sin
+  EN: White cotton cord used in Buddhist rites.
+  FR: Cordon de coton blanc utilisé dans les rites bouddhiques.
+
 Sala
   EN: Open pavilion.
   FR: Pavillon ouvert.
+
+Sin
+  EN: A woman's long skirt, usually ankle-length.
+  FR: Longue jupe de femme, en général jusqu’à la cheville.
+
+Sin sot
+  EN: Money from the groom's side to the bride's parents.
+  FR: Somme offerte par la famille du marié aux parents de la mariée.
 
 Sirikit
   EN: Queen of Thailand, who visited Ban Chiang with the King in 1972.
@@ -205,6 +273,10 @@ Sirikit
 Sita
   EN: Prince Rama's wife, heroine of the Ramakien.
   FR: Épouse du prince Rama, héroïne du Ramakien.
+
+Su khwan
+  EN: Calling the khwan back to a person.
+  FR: Rappeler le khwan auprès d’une personne.
 
 Sukhothai
   EN: Former Thai capital.
@@ -221,6 +293,10 @@ Thotsakan
 Udon Thani
   EN: Province in northeast Thailand, home to Ban Chiang and Kham Chanot.
   FR: Province du nord-est de la Thaïlande, où se trouvent Ban Chiang et Kham Chanot.
+
+Wai
+  EN: Greeting with palms joined and the head slightly bowed.
+  FR: Salut, paumes jointes et tête légèrement inclinée.
 
 Wang Nakhin
   EN: Another name for Kham Chanot: the palace of the naga lord.
