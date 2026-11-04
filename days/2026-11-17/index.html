@@ -202,6 +202,8 @@ footer h2{font-size:17px;color:var(--text);margin:28px 0 8px}
 .row.walk .r-time{font-weight:600;color:var(--muted)}
 .row.walk.is-now{background:var(--surface);box-shadow:0 0 0 2px var(--gold)}
 .row.optional{background:transparent;box-shadow:none;border:1.5px dashed var(--line)}
+.r-pin.none{background:transparent;border:2px solid var(--line);width:14px;height:14px;margin:8px 0 0 8px}
+.day-theme{margin:6px 0 0;color:var(--muted);font-size:16px}
 .r-pin.hotel{background:var(--text);color:var(--bg);border-color:var(--text)}
 .row.optional .r-pin{background:var(--surface);color:var(--muted);border:2px dashed var(--muted)}
 .tips{padding:16px 18px}
@@ -274,9 +276,9 @@ document.documentElement.className="lang-"+l;document.documentElement.lang=l;})(
     return { date: date, minutes: t.getUTCHours() * 60 + t.getUTCMinutes() };
   }
   function refresh(){
-    var rows = Array.prototype.slice.call(document.querySelectorAll(".timeline .row"));
+    var rows = Array.prototype.slice.call(document.querySelectorAll(".timeline .row[data-start]"));
     var pins = document.querySelectorAll(".m-pin");
-    rows.forEach(function(r){ r.classList.remove("is-now", "is-next"); });
+    document.querySelectorAll(".timeline .row").forEach(function(r){ r.classList.remove("is-now", "is-next"); });
     pins.forEach(function(p){ p.classList.remove("is-now"); });
     var now = bangkokNow();
     if (now.date !== DAY.date) return;
