@@ -1,4 +1,4 @@
-const CACHE = "guide-a7f7a8504a";
+const CACHE = "guide-cce43f619b";
 const PRECACHE = ["days/2026-11-17/", "days/2026-11-18/", "days/2026-11-19/", "days/2026-11-20/", "days/2026-11-21/"];
 const SKIP = /\.(mp3|zip)$/i;
 
@@ -25,7 +25,10 @@ self.addEventListener("fetch", (event) => {
   event.respondWith((async () => {
     const cache = await caches.open(CACHE);
     try {
-      const response = await fetch(request);
+      // Pages: bypass the browser's 10-minute HTTP cache so an update shows on the next visit.
+      const response = await (request.mode === "navigate"
+        ? fetch(request.url, { cache: "no-cache", credentials: "same-origin" })
+        : fetch(request));
       if (response.ok) await cache.put(request, response.clone());
       return response;
     } catch (error) {
