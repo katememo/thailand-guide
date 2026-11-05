@@ -142,6 +142,13 @@ details[open]>summary .i-chev{transform:rotate(90deg)}
 .day-card-text strong{font-size:18px}
 .day-card-meta{font-size:14px;color:var(--muted);margin-top:2px;font-variant-numeric:tabular-nums}
 .day-card .i-chev{color:var(--muted)}
+.day-card.is-wedding{border-color:#f3c9d6;background:linear-gradient(135deg,#fdecf1,#fff8fa 55%,var(--surface))}
+.day-card.is-wedding .badge{background:#fbe3ea;color:#d14d7d}
+.day-card.is-wedding .eyebrow{color:#c43268}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .day-card.is-wedding{border-color:#5a2a3a;background:linear-gradient(135deg,#3a2129,#2b1c21 55%,var(--surface))}:root:not([data-theme="light"]) .day-card.is-wedding .badge{background:#43222e;color:#f2a3bd}:root:not([data-theme="light"]) .day-card.is-wedding .eyebrow{color:#f2a3bd}}
+:root[data-theme="dark"] .day-card.is-wedding{border-color:#5a2a3a;background:linear-gradient(135deg,#3a2129,#2b1c21 55%,var(--surface))}
+:root[data-theme="dark"] .day-card.is-wedding .badge{background:#43222e;color:#f2a3bd}
+:root[data-theme="dark"] .day-card.is-wedding .eyebrow{color:#f2a3bd}
 .locations{list-style:none;display:flex;gap:14px;margin:0 -16px 24px;padding:4px 16px 14px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding:0 16px;scrollbar-width:none;-webkit-overflow-scrolling:touch}
 .locations::-webkit-scrollbar{display:none}
 .locations li{flex:0 0 82%;display:flex;scroll-snap-align:start}
@@ -189,6 +196,15 @@ footer h2{font-size:17px;color:var(--text);margin:28px 0 8px}
 .top.plain .switch button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
 .day{max-width:680px;margin:0 auto;padding:4px 16px 48px}
 .day-head{margin:8px 4px 18px}
+.day-head.is-wedding{position:relative;margin:8px 0 18px;padding:18px 18px 16px;border-radius:20px;border:2px solid #f3c9d6;background:linear-gradient(135deg,#fdecf1,#fff8fa 60%,var(--surface))}
+.day-head.is-wedding .eyebrow{color:#c43268}
+.day-head.is-wedding .day-theme{color:#9c3a5e}
+.wed-heart{position:absolute;top:14px;right:16px;width:30px;height:30px;color:#e06a92;opacity:.9}
+.wed-heart svg{width:100%;height:100%;display:block}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .day-head.is-wedding{border-color:#5a2a3a;background:linear-gradient(135deg,#3a2129,#2b1c21 60%,var(--surface))}:root:not([data-theme="light"]) .day-head.is-wedding .eyebrow{color:#f2a3bd}:root:not([data-theme="light"]) .day-head.is-wedding .day-theme{color:#e9b7c8}}
+:root[data-theme="dark"] .day-head.is-wedding{border-color:#5a2a3a;background:linear-gradient(135deg,#3a2129,#2b1c21 60%,var(--surface))}
+:root[data-theme="dark"] .day-head.is-wedding .eyebrow{color:#f2a3bd}
+:root[data-theme="dark"] .day-head.is-wedding .day-theme{color:#e9b7c8}
 .day-head h1{font-size:clamp(28px,8vw,38px);font-weight:800;margin:0}
 .day-banner{background:var(--flag-bg);color:var(--flag-text);border-left:4px solid var(--flag-line);border-radius:14px;padding:12px 14px;margin:0 0 18px}
 .day-banner p{margin:4px 0 0}
