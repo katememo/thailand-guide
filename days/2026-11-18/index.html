@@ -13,9 +13,9 @@
 <link rel="manifest" href="../../manifest.webmanifest">
 <meta name="apple-mobile-web-app-title" content="Thailand Trip">
 <style>
-:root{--bg:#f5f3ee;--surface:#ffffff;--surface-2:#efece5;--text:#1b1916;--muted:#6b655c;--line:#e4dfd5;--accent:#0f6e5c;--accent-ink:#ffffff;--accent-soft:#e1efe9;--gold:#a87920;--flag-bg:#fdf3dc;--flag-text:#5c4300;--flag-line:#e2b44a;--shadow:0 1px 2px rgba(30,25,15,.06),0 8px 24px rgba(30,25,15,.08);--radius:20px;--menu-bg:#fbf7ee;--menu-line:#dcc79a}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121110;--surface:#1d1b19;--surface-2:#262320;--text:#f1ede6;--muted:#a9a197;--line:#322e29;--accent:#45c4a2;--accent-ink:#0a1f19;--accent-soft:#1b302a;--gold:#e0b25a;--flag-bg:#3a2e12;--flag-text:#f3dca4;--flag-line:#a47d22;--shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);--menu-bg:#1f1c17;--menu-line:#5e4d2c}}
-:root[data-theme="dark"]{--bg:#121110;--surface:#1d1b19;--surface-2:#262320;--text:#f1ede6;--muted:#a9a197;--line:#322e29;--accent:#45c4a2;--accent-ink:#0a1f19;--accent-soft:#1b302a;--gold:#e0b25a;--flag-bg:#3a2e12;--flag-text:#f3dca4;--flag-line:#a47d22;--shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);--menu-bg:#1f1c17;--menu-line:#5e4d2c}
+:root{--bg:#f5f3ee;--surface:#ffffff;--surface-2:#efece5;--text:#1b1916;--muted:#6b655c;--line:#e4dfd5;--accent:#0f6e5c;--accent-ink:#ffffff;--accent-soft:#e1efe9;--gold:#a87920;--flag-bg:#fdf3dc;--flag-text:#5c4300;--flag-line:#e2b44a;--shadow:0 1px 2px rgba(30,25,15,.06),0 8px 24px rgba(30,25,15,.08);--radius:20px;--menu-bg:#c9d4c4;--menu-ink:#4c5c49;--menu-soft:#667763;--menu-leaf:#6f8a68;--menu-line:#a9b8a3}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121110;--surface:#1d1b19;--surface-2:#262320;--text:#f1ede6;--muted:#a9a197;--line:#322e29;--accent:#45c4a2;--accent-ink:#0a1f19;--accent-soft:#1b302a;--gold:#e0b25a;--flag-bg:#3a2e12;--flag-text:#f3dca4;--flag-line:#a47d22;--shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);--menu-bg:#2a332b;--menu-ink:#d5ded0;--menu-soft:#aebba9;--menu-leaf:#8ea687;--menu-line:#4a5747}}
+:root[data-theme="dark"]{--bg:#121110;--surface:#1d1b19;--surface-2:#262320;--text:#f1ede6;--muted:#a9a197;--line:#322e29;--accent:#45c4a2;--accent-ink:#0a1f19;--accent-soft:#1b302a;--gold:#e0b25a;--flag-bg:#3a2e12;--flag-text:#f3dca4;--flag-line:#a47d22;--shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);--menu-bg:#2a332b;--menu-ink:#d5ded0;--menu-soft:#aebba9;--menu-leaf:#8ea687;--menu-line:#4a5747}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scroll-padding-top:16px}
 body{margin:0;background:var(--bg);color:var(--text);font:17px/1.6 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,"Noto Sans","Noto Sans Thai",sans-serif;-webkit-font-smoothing:antialiased}
@@ -81,21 +81,26 @@ details[open]>summary .i-chev{transform:rotate(90deg)}
 .play .i-pause,.play.playing .i-play,.player .i-pause,.player.playing .i-play{display:none}
 .play.playing .i-pause,.player.playing .i-pause{display:block}
 
-.menu-card{margin:4px 0 18px;padding:6px;border-radius:16px;background:var(--menu-bg);border:1px solid var(--menu-line)}
-.m-inner{border:1px solid var(--menu-line);border-radius:12px;padding:22px 16px 18px;text-align:center;font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif}
-.m-title{margin:0;font-size:26px;letter-spacing:.06em;color:var(--text)}
-.m-sub{margin:2px 0 0;font-style:italic;font-size:16px;color:var(--gold)}
-.m-orn{display:flex;align-items:center;justify-content:center;gap:10px;margin:14px 0 6px;color:var(--gold);font-size:10px}
-.m-orn span{display:block;width:56px;height:1px;background:var(--menu-line)}
-.m-sec{margin:16px 0 0}
-.m-label{margin:0 0 6px;font-family:inherit;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--gold)}
-.m-note{display:block;margin-top:2px;font-size:13px;font-weight:400;letter-spacing:0;text-transform:none;font-style:italic;color:var(--muted)}
-.m-dish{margin:0 0 8px;line-height:1.35}
-.m-name{display:block;font-size:17px;color:var(--text)}
-.m-desc{display:block;font-size:14px;font-style:italic;color:var(--muted)}
-.m-or{margin:2px 0 8px;font-style:italic;font-size:14px;color:var(--gold)}
-.m-or span::before,.m-or span::after{content:"";display:inline-block;width:22px;height:1px;background:var(--menu-line);vertical-align:middle;margin:0 8px}
-.m-drinks .m-sec:first-child{margin-top:8px}
+.menu-card{margin:4px 0 18px;border-radius:16px;background:var(--menu-bg);color:var(--menu-ink);overflow:hidden}
+.m-inner{position:relative;padding:104px 22px 112px;text-align:center;font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif}
+.m-corner{position:absolute;width:134px;color:var(--menu-leaf);pointer-events:none}
+.m-corner svg{display:block;width:100%;height:auto}
+.m-tr{top:-12px;right:-12px}
+.m-bl{bottom:-12px;left:-12px;transform:rotate(180deg)}
+.m-title,.m-sub,.m-sec,.m-orn{position:relative}
+.m-title{margin:0;font-size:15px;font-weight:400;letter-spacing:.34em;text-transform:uppercase;padding-left:.34em}
+.m-sub{margin:6px 0 0;font-style:italic;font-size:15px;color:var(--menu-soft)}
+.m-orn{display:flex;justify-content:center;margin:20px 0 4px}
+.m-orn span{display:block;width:40px;height:1px;background:var(--menu-soft);opacity:.55}
+.m-sec{margin:26px 0 0}
+.m-label{margin:0 0 10px;font-family:inherit;font-size:12.5px;font-weight:400;letter-spacing:.3em;text-transform:uppercase;padding-left:.3em}
+.m-note{display:block;margin-top:4px;font-size:13px;letter-spacing:0;text-transform:none;font-style:italic;color:var(--menu-soft);padding-left:0}
+.m-dish{margin:0 0 9px;line-height:1.4}
+.m-name{display:block;font-size:16px;font-style:italic}
+.m-desc{display:block;font-size:14px;font-style:italic;color:var(--menu-soft)}
+.m-or{margin:0 0 9px;font-style:italic;font-size:13.5px;color:var(--menu-soft)}
+.m-or span::before,.m-or span::after{content:"";display:inline-block;width:18px;height:1px;background:currentColor;opacity:.5;vertical-align:middle;margin:0 8px}
+.m-drinks .m-sec:first-child{margin-top:14px}
 .videos{margin:0 0 16px;padding:12px;border-radius:14px;border:1px solid var(--line);background:var(--surface-2)}
 .videos-title{margin:0 0 8px;font-size:13px;font-weight:750;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}
 .video-link{display:flex;align-items:center;gap:12px;padding:8px;margin:0 0 6px;border-radius:12px;background:var(--surface);color:var(--text);text-decoration:none;min-height:44px}
